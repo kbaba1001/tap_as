@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = 'tap_as'
   spec.version       = TapAs::VERSION
   spec.authors       = ['kbaba1001']
-  spec.email         = ['kbaba1001@users.noreply.github.com']
+  spec.email         = ['kbaba1001@gmail.com']
 
-  spec.summary       = 'tap {|obj| break yield(obj) }'
-  spec.description   = 'tap {|obj| break yield(obj) }'
+  spec.summary       = '`Object#as` define as `tap {|obj| break yield(obj) }`'
+  spec.description   = '`Object#as` define as `tap {|obj| break yield(obj) }`'
   spec.homepage      = 'https://github.com/kbaba1001/tap_as'
   spec.license       = 'MIT'
 
